@@ -15,6 +15,6 @@
 **Libraries**
 
 **Tutorials**
-* [Github & Databricks Integration](./databricks/databricks_github_integration.md): Sync and commit Databricks notebook revision history to Github
+* [Github & Databricks Integration](./docs/databricks/databricks_github_integration.md): Sync and commit Databricks notebook revision history to Github
 
 
